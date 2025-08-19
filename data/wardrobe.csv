@@ -1,0 +1,11 @@
+id,type,color,style,occasion,temperature_range
+1,t-shirt,blue,casual,casual,hot
+2,shirt,white,formal,formal,moderate
+3,jacket,black,classic,formal,cold
+4,jeans,blue,casual,casual,moderate
+5,kurta,cream,traditional,formal,hot
+6,hoodie,grey,sporty,casual,cold
+7,shorts,black,casual,casual,hot
+8,blazer,navy,formal,formal,cold
+
+
